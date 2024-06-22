@@ -1,0 +1,26 @@
+[/]
+animate-appicon-hover=true
+animate-appicon-hover-animation-extent={'RIPPLE': 4, 'PLANK': 4, 'SIMPLE': 1}
+appicon-margin=12
+appicon-padding=2
+available-monitors=[0]
+dot-position='TOP'
+dot-style-unfocused='DASHES'
+hide-overview-on-startup=true
+hot-keys=true
+hotkeys-overlay-combo='TEMPORARILY'
+isolate-monitors=true
+isolate-workspaces=true
+leftbox-padding=-1
+overview-click-to-exit=true
+panel-anchors='{"0":"MIDDLE"}'
+panel-element-positions='{"0":[{"element":"showAppsButton","visible":true,"position":"stackedTL"},{"element":"activitiesButton","visible":false,"position":"stackedTL"},{"element":"leftBox","visible":true,"position":"stackedTL"},{"element":"taskbar","visible":true,"position":"centerMonitor"},{"element":"centerBox","visible":true,"position":"stackedBR"},{"element":"rightBox","visible":true,"position":"stackedBR"},{"element":"dateMenu","visible":true,"position":"stackedBR"},{"element":"systemMenu","visible":true,"position":"stackedBR"},{"element":"desktopButton","visible":false,"position":"stackedBR"}]}'
+panel-lengths='{"0":100}'
+panel-positions='{"0":"TOP"}'
+panel-sizes='{"0":40}'
+primary-monitor=0
+status-icon-padding=-1
+taskbar-locked=true
+trans-use-custom-opacity=true
+tray-padding=-1
+window-preview-title-position='TOP'
